@@ -8,7 +8,7 @@ Möchtest du Computerspiele nicht nur spielen sondern selbst programmieren? Dann
 
 ## Was ist ein CoderDojo?
 
-Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen. In regelmäßigen Treffen wird gelernt wie man Code schreibt, Webseiten entwickelt oder Apps und Spiele programmiert. [Mehr Infos ...](/infos/kinder/)
+Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen. In regelmäßigen Treffen wird gelernt wie man Code schreibt, Webseiten entwickelt oder Spiele programmiert. [Mehr Infos ...](/infos/kinder/)
 
 ## Für wen?
 
@@ -23,4 +23,3 @@ Wir treffen uns jeden zweiten Freitag von 17:00 bis 19:00 in der Volkshochschule
 	&nbsp;&nbsp;
 	<a href="/termine/" class="c-btn">N&Auml;CHSTE TERMINE ...</a>
 </div>
-
