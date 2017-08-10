@@ -47,10 +47,6 @@ Wenn ihr ein wenig erfahrener und neugierig auf die Welt des Internets seid, dan
 
 Eure Mentoren helfen euch, HTML, CSS und JavaScript zu erkunden. Wir haben einige echte Vollprofis im Team, von denen ihr viel lernen könnt.
 
-### Für Fortgeschrittene
-
-Im CoderDojo könnt ihr natürlich auch professionelle Programmiersprachen wie Python, C# oder C lernen. Das ist natürlich erst etwas für die Erfahreneren unter euch. Solche Programmiersprachen öffnen eine ganz neue Welt für euch. Minecraft Mods, Elektronikprojekte mit Arduino Raspberry Pi und vieles mehr warten dann auf euch.
-
 ## Die Regeln im CoderDojo
 
 Jede Gemeinschaft braucht ein paar Regeln, damit sie funktioniert. Hier sind unsere CoderDojo Regeln:
