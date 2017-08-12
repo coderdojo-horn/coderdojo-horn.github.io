@@ -25,7 +25,7 @@ Horner CoderDojos finden in der Regel alle 2 Wochen statt. Ihr kommt vorbei, wen
 
 Wenn ihr regelmäßig kommt, freut uns das besonders. Es gibt aber keine Verpflichtung, bei jedem Termin dabeizusein. Für den ersten Besuch ist eine Anmeldung notwendig. Nach Erhalt eines Mitgliedsausweis ist keine Anmeldung mehr nötig. Ihr kommt wenn ihr Zeit und Lust habt.
 
-Bitte schaut mit euren Eltern die [Informationen für Eltern]({{ site.url }}{% /infos/eltern %}) aufmerksam durch. Falls Ihr jünger als 13 Jahre alt seid, muss eine erwachsene Begleitperson mit euch zum CoderDojo kommen und die ganze Zeit anwesend bleiben.
+Bitte schaut mit euren Eltern die [Informationen für Eltern]({{ site.url }}/infos/eltern) aufmerksam durch. Falls Ihr jünger als 13 Jahre alt seid, muss eine erwachsene Begleitperson mit euch zum CoderDojo kommen und die ganze Zeit anwesend bleiben.
 
 ## Was wird beim CoderDojo gemacht?
 
