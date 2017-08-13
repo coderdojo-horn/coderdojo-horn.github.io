@@ -26,6 +26,7 @@ githubUsername: coderdojo-horn
 twitterUsername:
 dribbbleUsername:
 codepenUsername:
+google_analytics: UA-20907639-24
 
 # Build settings
 markdown: kramdown

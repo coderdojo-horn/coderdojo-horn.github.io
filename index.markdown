@@ -8,11 +8,11 @@ Möchtest du Computerspiele nicht nur spielen sondern selbst programmieren? Dann
 
 ## Was ist ein CoderDojo?
 
-Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen. In regelmäßigen Treffen wird gelernt wie man Code schreibt, Webseiten entwickelt oder Spiele programmiert. [Mehr Infos ...](/infos/kinder/)
+Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen. In regelmäßigen Treffen wird gelernt wie man Code schreibt, Webseiten entwickelt oder Spiele programmiert. [Mehr Infos ...](/kinder/)
 
 ## Für wen?
 
-Teilnehmen können Kinder und Jugendliche im Alter von 8 bis 17 Jahren. Es sind keine Vorkenntnisse notwendig und die Teilnahme ist kostenfrei. Kinder unter 13 Jahren müssen von einem Erwachsenen begleitet werden. [Mehr Infos ...](/infos/eltern/)
+Teilnehmen können Kinder und Jugendliche im Alter von 8 bis 17 Jahren. Es sind keine Vorkenntnisse notwendig und die Teilnahme ist kostenfrei. Kinder unter 13 Jahren müssen von einem Erwachsenen begleitet werden. [Mehr Infos ...](/eltern/)
 
 ## Wann?
 
