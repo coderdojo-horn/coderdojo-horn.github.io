@@ -45,3 +45,15 @@ $highlightc: #1e6bb8;
 .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
     color: $highlightc;
 }
+
+.pull-left {
+    float: left;
+}
+
+.mentor-image {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width: 200px;
+    max-width: 33%;
+}
