@@ -16,9 +16,8 @@
 title: CoderDojo Horn
 email: stephan@horn.coderdojo.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Das CoderDojo Horn ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, <br>
+ in dem sie Technik und Programmieren lernen können.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://horn.coderdojo.net" # the base hostname & protocol for your site
 
