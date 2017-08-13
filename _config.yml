@@ -21,11 +21,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://horn.coderdojo.net" # the base hostname & protocol for your site
 
+linz_examples: https://coderdojo-linz.github.io
+
 # Social
-githubUsername: coderdojo-horn
-twitterUsername:
-dribbbleUsername:
-codepenUsername:
 google_analytics: UA-20907639-24
 
 # Build settings
