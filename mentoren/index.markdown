@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mentoren
-permalink: /mentoren/
 ---
 
 # Unsere Mentoren
