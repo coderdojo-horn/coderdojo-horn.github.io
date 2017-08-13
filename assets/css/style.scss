@@ -5,10 +5,11 @@
 
 $fontc: rgba(0,0,0,0.9);
 $backgroundc: rgba(250,250,250,0.8);
+$highlightc: #1e6bb8;
 
 .page-header {
     background-image: url('../img/header.png');
-    background-color: #1e6bb8;
+    background-color: $highlightc;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -30,11 +31,17 @@ $backgroundc: rgba(250,250,250,0.8);
     background-color: $backgroundc;
 }
 
+.btn2 {
+    @extend .btn;
+    color: white;
+    background-color: $highlightc;
+}
+
 .btn:hover {
     color:invert($fontc);
     background-color: invert($backgroundc);
 }
 
 .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
-    color: #1e6bb8;
+    color: $highlightc;
 }
