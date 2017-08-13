@@ -39,9 +39,7 @@ Hier findest du verschiedene Übungsbeispiele für Scratch und HTML.
 1. [Erste Schritte mit CSS]({{ site.linz_examples }}/trainingsanleitungen/web/erste-schritte-mit-css.html)
 1. [Programmiere ein einfaches "Zahlen raten" Spiel mit JavaScript]({{ site.linz_examples }}/trainingsanleitungen/web/javascript-zahlen-raten.html)
 1. [Erste Schritte mit SVG]({{ site.linz_examples }}/trainingsanleitungen/web/erste-schritte-mit-svg.html)
-1. [Deine eigene Webseite im Internet veröffentlichen]({{ site.linz_examples }}/trainingsanleitungen/web/dreamspark-azure.html)
 1. [Einen Node.js Webserver programmieren]({{ site.linz_examples }}/trainingsanleitungen/web/nodejs-webserver.html)
-1. [Programmiere einen Chat mit Node.js und Socket.io]({{ site.linz_examples }}/trainingsanleitungen/web/nodejs-socketio-chat.html)
 1. [Ein Space Shooter mit TypeScript und Phaser.io]({{ site.linz_examples }}/trainingsanleitungen/web/space-shooter.html)
 1. [Deine eigene Verschlüsselung mit JavaScript]({{ site.linz_examples }}/trainingsanleitungen/web/caesar-verschluesseln.html)
 1. [Präsentationen mit HTML statt PowerPoint]({{ site.linz_examples }}/trainingsanleitungen/web/html-prasentationen.html)
@@ -52,22 +50,6 @@ Hier findest du verschiedene Übungsbeispiele für Scratch und HTML.
 1. [Erste Schritte mit Hugo]({{ site.linz_examples }}/trainingsanleitungen/web/erste-schritte-mit-hugo.html)
 1. [Snake mit Node.js]({{ site.linz_examples }}/trainingsanleitungen/web/snake-mit-nodejs.html)
 
-## Minecraft
+## Änderungen und Ergänzungen
 
-1. [Vorbedingungen - Installationen]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/01_installationen.html)
-1. [Kurzanleitung NetBeans Projektsetup]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/netbeans_cheatsheet.html)
-1. [Plugin 1: Erstes Minecraft-Plugin]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/02_first-plugin.html)
-1. [Plugin 2: Teil 1 - Miraculix (player details)]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/03_getafix-Player.html)
-1. [Plugin 2: Teil 2 - Miraculix (argument handling)]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/04_getafix-Arguments.html)
-1. [Plugin 3: Begrüßen und Verabschieden (listener)]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/05_welcome-Listener.html)
-1. [Plugin 2: Teil 3 - Miraculix (event handling)]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/06_getafix-MagicPotion.html)
-1. [Minecraft-Server mit Scriptcraft installieren]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/lokaler-minecraft-server.html)
-1. [Dein erster, eigener Minecraft-Server]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/minecraft-server.html)
-1. [Scriptcraft am Minecraft-Server installieren]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/07_spigot_scriptcraft_docker.html)
-1. [Programmieren mit Scriptcraft - Grundlagen]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/08_scriptcraft_basics.html)
-1. [Erste Schritte mit Redstone]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/erste-schritte-mit-redstone.html)
-
-## C# (C Sharp)
-
-1. [AntMe! Wie schlau ist deine Ameise?]({{ site.linz_examples }}/trainingsanleitungen/csharp/ant-me.html)
-1. [Türme von Hanoi]({{ site.linz_examples }}/trainingsanleitungen/csharp/towers-of-hanoi.html)
+Möchtet ihr an den Beispielen etwas ändern? Habt ihr einen Fehler entdeckt? Möchtet ihr eigene Beispiele hinzufügen? Diese Webseite steht vollständig im Quelltext auf Github unter [https://github.com/coderdojo-linz/coderdojo-linz.github.io/tree/master/trainingsanleitungen](https://github.com/coderdojo-linz/coderdojo-linz.github.io/tree/master/trainingsanleitungen){:target="_blank"} zur Verfügung. Unsere regelmäßigen Mentoren können jederzeit Schreibzugriff haben. Alle anderen bitten wir bei Änderungswünschen um [Pull-Requests](https://help.github.com/articles/using-pull-requests/){:target="_blank"}.
