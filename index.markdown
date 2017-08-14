@@ -18,7 +18,5 @@ Teilnehmen können Kinder und Jugendliche im Alter von 8 bis 17 Jahren. Es sind 
 Wir treffen uns jeden zweiten Freitag von 17:00 bis 19:00 in der Volkshochschule Horn. Für den ersten Besuch ist eine Anmeldung notwendig. Nach Erhalt eines Mitgliedsausweis ist keine Anmeldung mehr nötig. Ihr kommt wenn ihr Zeit und Lust habt.
 
 <div class="bottomlinks">
-	<a href="/anmeldung/" class="btn2">ZUR ANMELDUNG ...</a>
-	&nbsp;&nbsp;
-	<a href="/termine/" class="btn2">N&Auml;CHSTE TERMINE ...</a>
+	<a href="/termine" class="btn2">ANMELDUNG / TERMINE</a>
 </div>

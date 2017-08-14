@@ -11,13 +11,14 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name"><a href="/" class="rootlink">{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
-      <a href="{{ site.url }}" class="btn">Anmeldung</a>
+      <!--a href="{{ site.url }}" class="btn">Anmeldung</a-->
       <a href="{{ site.url }}/kinder" class="btn">Infos f&uuml;r Kinder</a>
       <a href="{{ site.url }}/eltern" class="btn">Infos f&uuml;r Eltern</a>
+      <a href="{{ site.url }}/mentoren/infos" class="btn">Infos f&uuml;r Mentoren</a>
+      <a href="{{ site.url }}/termine" class="btn">Anmeldung / Termine</a>
       <a href="{{ site.url }}/mentoren" class="btn">Mentoren</a>
-      <a href="{{ site.url }}/termine" class="btn">Termine</a>
       <a href="{{ site.url }}/beispiele" class="btn">&Uuml;bungungsbeispiele</a>
     </section>
 
