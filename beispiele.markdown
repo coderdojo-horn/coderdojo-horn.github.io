@@ -6,6 +6,8 @@ title: Übungsbeispiele
 
 Hier findest du verschiedene Übungsbeispiele für Scratch und HTML.
 
+Die hier gezeigten Beispiele wurden mit viel Aufwand vom [Linzer CoderDojo](http://coderdojo-linz.github.io) erstellt und allen Mentoren in Linz gilt unser Dank, dass wir diese ebenfalls verwenden dürfen.
+
 ## Scratch
 
 1. [Grafisches Programmieren mit Programmierspielen von *Hour of Code* lernen]({{ site.linz_examples }}/trainingsanleitungen/scratch/hour-of-code.html)

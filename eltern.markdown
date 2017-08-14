@@ -35,7 +35,7 @@ Die Arbeit mit sozialen Netzwerken wie Facebook oder Twitter ist erlaubt, damit 
 
 ## Wie funktionieren CoderDojos?
 
-**Die Treffen finden in der Regel wöchentlich statt. Die Kinder und Jugendlichen treffen sich mit freiwilligen, technisch versierten Mentoren, um zusammen zu programmieren und unter Anleitung ihre Fähigkeiten zu entwickeln und auszubauen.**
+**Die Treffen finden in der Regel alle zwei Wochen statt. Die Kinder und Jugendlichen treffen sich mit freiwilligen, technisch versierten Mentoren, um zusammen zu programmieren und unter Anleitung ihre Fähigkeiten zu entwickeln und auszubauen.**
 
 Die Kinder und Jugendlichen sollen zum selbständigen Entdecken und Kreativsein angeregt werden. Die oberste Regel lautet, dass die Arbeit an den Projekten Spaß machen und cool sein muss.
 
@@ -53,7 +53,7 @@ Grundsätzlich ist es aber nicht notwendig Hard- oder Software für Ihr Kind zu 
 
 ## Ist das CoderDojo das Richtige für mein Kind?
 
-**Voraussetzung für die Teilnahme am Linzer CoderDojo ist, dass das Kind zwischen 8 und 17 Jahren alt ist. Vorkenntnisse sind nicht notwendig.**
+**Voraussetzung für die Teilnahme am Horner CoderDojo ist, dass das Kind zwischen 8 und 17 Jahren alt ist. Vorkenntnisse sind nicht notwendig.**
 
 Es ist natürlich einfacher, wenn Ihr Kind schon einmal einen Computer bedient hat. Wenn nicht, können wir das aber rasch nachholen. Es ist ausdrücklich nicht Voraussetzung, dass Ihr Kind schon programmieren kann. Gerade das soll es ja im CoderDojo lernen.
 
@@ -72,7 +72,7 @@ Außerdem sollen Kinder und Jugendliche im CoderDojo gemeinsam Dinge ausprobiere
 
 Begleitpersonen sind natürlich herzlich eingeladen, als Mentoren oder anderweitige Helfer mitzuwirken. Bei einem CoderDojo gibt es auch viele Dinge abseits von Programmieren, die zu tun sind. Je mehr helfende Hände da sind, desto mehr können sich die Mentoren auf die Arbeit mit den Kindern und Jugendlichen konzentrieren.
 
-Als Programmierclub möchten wir natürlich auch moderne Wege zur Kommunikation mit Teilnehmern, Eltern, Mentoren und Medien nutzen (z.B. Blogs, Facebook, Twitter). Sollten Sie keine Fotos Ihres Kindes wünschen, bitten wir Sie um einen entsprechenden Hinweis persönlich beim CoderDojo oder per Email (Kontaktinformationen).
+Als Programmierclub möchten wir natürlich auch moderne Wege zur Kommunikation mit Teilnehmern, Eltern, Mentoren und Medien nutzen (z.B. Blogs, Facebook, Twitter). Sollten Sie keine Fotos Ihres Kindes wünschen, bitten wir Sie um einen entsprechenden Hinweis persönlich beim CoderDojo oder per [Email](mailto:info@horn.coderdojo.net).
 
 ## Wann kann man einsteigen?
 

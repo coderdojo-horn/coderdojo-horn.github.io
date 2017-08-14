@@ -70,7 +70,24 @@ $highlightc: #1e6bb8;
     clear: both;
 }
 
+.cdlogo {
+    max-width: 60px;
+    padding-right: 20px;
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .cdlogo {
+        max-width: 43px;
+        padding-right: 15px;
+    }
+}
+
 @media screen and (max-width: 42em) {
+    .cdlogo {
+        max-width: 33px;
+        padding-right: 10px;
+    }
+
     .mentor-image {
         margin-top: 20px;
         margin-right: 20px;

@@ -20,3 +20,8 @@ Wir treffen uns jeden zweiten Freitag von 17:00 bis 19:00 in der Volkshochschule
 <div class="bottomlinks">
 	<a href="/termine" class="btn2">ANMELDUNG / TERMINE</a>
 </div>
+
+
+## Warum?
+
+Inspiriert von der Arbeit die das [CoderDojo Linz](http://coderdojo-linz.github.io) und das [CoderDojo Wien](http://wien.coderdojo.net) leisten kam uns die Idee dies auch in Horn anbieten zu wollen. Ganz den Idealen der internationalen [CoderDojo Vereinigung](https://coderdojo.com/) folgend Kindern kostenlos Programmieren beizubringen.
