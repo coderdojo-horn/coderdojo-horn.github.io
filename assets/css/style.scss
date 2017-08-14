@@ -66,8 +66,17 @@ $highlightc: #1e6bb8;
     max-width: 33%;
 }
 
-.clearfix {
+.clearfix:after {
     clear: both;
+}
+
+.clearfix:before, .clearfix:after {
+    display: table;
+    content: " ";
+    margin-bottom: 20px;
+}
+.clearfix h3 {
+    margin-top: 0px;
 }
 
 .cdlogo {
