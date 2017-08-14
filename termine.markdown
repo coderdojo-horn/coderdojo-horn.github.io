@@ -11,3 +11,10 @@ Sollte für einen Termin gerade kein Platz mehr frei sein bei der Anmeldung so g
 - [Freitag, 01. September 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-36929997617?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
 - [Freitag, 15. September 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-36982836660?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
 - [Freitag, 29. September 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-36982852708?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+
+
+ 
+
+## Wo?
+
+<iframe src="https://www.google.at/maps/embed?pb=!1m18!1m12!1m3!1d2635.1057260246703!2d15.65365651624135!3d48.66522072224143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4772bcd402882329%3A0x8159ba2bc9c6c423!2sVolkshochschule+Horn!5e0!3m2!1sen!2sat!4v1502741366658" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
