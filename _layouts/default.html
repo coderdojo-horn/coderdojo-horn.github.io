@@ -14,12 +14,12 @@
       <h1 class="project-name"><a href="/" class="rootlink"><img class="cdlogo" src="/assets/img/yinyang_medium.png" alt="CoderDojo"/>{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
       <!--a href="{{ site.url }}" class="btn">Anmeldung</a-->
-      <a href="{{ site.url }}/kinder" class="btn">Infos f&uuml;r Kinder</a>
-      <a href="{{ site.url }}/eltern" class="btn">Infos f&uuml;r Eltern</a>
-      <a href="{{ site.url }}/mentoren/infos" class="btn">Infos f&uuml;r Mentoren</a>
-      <a href="{{ site.url }}/termine" class="btn">Anmeldung / Termine</a>
-      <a href="{{ site.url }}/mentoren" class="btn">Mentoren</a>
-      <a href="{{ site.url }}/beispiele" class="btn">&Uuml;bungungsbeispiele</a>
+      <a href="{{ site.url }}/kinder" class="btn {% if page.url == '/kinder' %}is-active{% endif %}">Infos f&uuml;r Kinder</a>
+      <a href="{{ site.url }}/eltern" class="btn {% if page.url == '/eltern' %}is-active{% endif %}">Infos f&uuml;r Eltern</a>
+      <a href="{{ site.url }}/mentoren/infos" class="btn {% if page.url == '/mentoren/infos' %}is-active{% endif %}">Infos f&uuml;r Mentoren</a>
+      <a href="{{ site.url }}/termine" class="btn {% if page.url == '/termine' %}is-active{% endif %}">Anmeldung / Termine</a>
+      <a href="{{ site.url }}/mentoren" class="btn {% if page.url == '/mentoren/' %}is-active{% endif %}">Mentoren</a>
+      <a href="{{ site.url }}/beispiele" class="btn {% if page.url == '/beispiele' %}is-active{% endif %}">&Uuml;bungungsbeispiele</a>
     </section>
 
     <section class="main-content">
