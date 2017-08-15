@@ -8,7 +8,7 @@ Künftig wird eine einmalige Anmeldung reichen. Sobald du deinen Mitgliedsauswei
 
 Sollte für einen Termin gerade kein Platz mehr frei sein bei der Anmeldung so gib uns bitte per [Mail](mailto:info@horn.coderdojo.net) Bescheid und wir geben dir rechtzeitig bekannt wie es um die Plätze und eventuelle Absagen steht.
 
-**Hinweis:** Bitte bei der Registrierung bei EventBrite den Namen des Kindes eintragen das zum Dojo kommt. Sollten zwei Kinder in Begleitung eines Erwachsenen kommen, so bitte zwei Registrierungen mit jeweils 1 Begleitperson eintragen.
+**Hinweis:** Bitte bei der Registrierung bei EventBrite den Namen des Kindes eintragen das zum Dojo kommt. Sollten zwei Kinder in Begleitung eines Erwachsenen kommen, so bitte zwei Registrierungen mit jeweils einer Begleitperson eintragen.
 
 - [Freitag, 01. September 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-36929997617?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
 - [Freitag, 15. September 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-36982836660?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
