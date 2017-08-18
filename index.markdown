@@ -1,5 +1,5 @@
 ---
-title: CoderDojo Horn
+title: Über uns
 ---
 # Lerne programmieren im CoderDojo Horn
 
