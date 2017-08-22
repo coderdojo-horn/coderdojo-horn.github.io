@@ -2,7 +2,7 @@
 layout:
 title: Malte-Thorben Bruns
 description:
-image: /assets/placeholder.jpg
+image: /assets/malte.jpg
 page-category: mentor
 ---
 Sein Interesse an IT wurde bereits im Alter von 10 Jahren durch den heimischen Schneider CPC geweckt und ist sp&auml;ter durch instabile Microsoft Betriebssyteme weiter gewachsen.
