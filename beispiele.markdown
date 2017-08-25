@@ -52,6 +52,7 @@ Die hier gezeigten Beispiele wurden mit viel Aufwand vom [Linzer CoderDojo](http
 1. [Erste Schritte mit Hugo]({{ site.linz_examples }}/trainingsanleitungen/web/erste-schritte-mit-hugo.html)
 1. [Snake mit Node.js]({{ site.linz_examples }}/trainingsanleitungen/web/snake-mit-nodejs.html)
 
+{::comment}
 ## Minecraft
 
 1. [Vorbedingungen - Installationen]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/01_installationen.html)
@@ -66,6 +67,7 @@ Die hier gezeigten Beispiele wurden mit viel Aufwand vom [Linzer CoderDojo](http
 1. [Scriptcraft am Minecraft-Server installieren]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/07_spigot_scriptcraft_docker.html)
 1. [Programmieren mit Scriptcraft - Grundlagen]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/08_scriptcraft_basics.html)
 1. [Erste Schritte mit Redstone]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/erste-schritte-mit-redstone.html)
+{:/comment}
 
 ## Änderungen und Ergänzungen
 
