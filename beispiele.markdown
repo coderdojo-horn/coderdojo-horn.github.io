@@ -62,7 +62,7 @@ Die hier gezeigten Beispiele wurden mit viel Aufwand vom [Linzer CoderDojo](http
 1. [Plugin 3: Begrüßen und Verabschieden (listener)]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/05_welcome-Listener.html)
 1. [Plugin 2: Teil 3 - Miraculix (event handling)]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/06_getafix-MagicPotion.html)
 1. [Minecraft-Server mit Scriptcraft installieren]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/lokaler-minecraft-server.html)
-1. [Dein erster, eigener Minecraft-Server](/trainingsanleitungen/minecraft-plugins/minecraft-server.html)
+1. [Dein erster, eigener Minecraft-Server]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/minecraft-server.html)
 1. [Scriptcraft am Minecraft-Server installieren]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/07_spigot_scriptcraft_docker.html)
 1. [Programmieren mit Scriptcraft - Grundlagen]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/08_scriptcraft_basics.html)
 1. [Erste Schritte mit Redstone]({{ site.linz_examples }}/trainingsanleitungen/minecraft-plugins/erste-schritte-mit-redstone.html)
