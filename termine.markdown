@@ -2,19 +2,20 @@
 title: Termine
 ---
 
-Mit Start 01. September 2017 wollen wir alle zwei Wochen ein CoderDojo in Horn anbieten. Dabei ist es nicht erforderlich bei jedem Termin oder gleich von Beginn an dabei zu sein. Jeder Coder kann kommen sobald er Zeit hat. Wir ersuchen vorläufig um Anmeldung zu einem Termin damit wir etwas besser planen können. 
+Seit dem 01. September 2017 bieten wir alle zwei Wochen ein CoderDojo in Horn an. Dabei ist es nicht erforderlich bei jedem Termin oder gleich von Beginn an dabei zu sein. Jeder Coder kann kommen sobald er Zeit hat. 
 
-Künftig wird eine einmalige Anmeldung reichen. Sobald du deinen Mitgliedsausweis hast komm einfach vorbei wenn du Zeit hast.
+Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen können und du ein Namensschild von uns bekommst.
 
-Sollte für einen Termin gerade kein Platz mehr frei sein bei der Anmeldung so gib uns bitte per [Mail](mailto:info@horn.coderdojo.net) Bescheid und wir geben dir rechtzeitig bekannt wie es um die Plätze und eventuelle Absagen steht.
+## Termine
 
-**Hinweis:** Bitte bei der Registrierung bei EventBrite den Namen des Kindes eintragen das zum Dojo kommt. Sollten zwei Kinder in Begleitung eines Erwachsenen kommen, so bitte zwei Registrierungen mit jeweils einer Begleitperson eintragen.
-
-- [Freitag, 29. September 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-36982852708)
-- [Freitag, 13. Oktober 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-37976589000)
-- [Freitag, 27. Oktober 2017, 17:00-19:00](https://www.eventbrite.com/e/coderdojo-horn-tickets-37976591006)
-
+- Freitag, 27. Oktober 2017, 17:00-19:00
+- Freitag, 10. November 2017, 17:00-19:00
+- Freitag, 24. November 2017, 17:00-19:00
+- Freitag, 8. Dezember 2017, 17:00-19:00
  
+<br/>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGTYUX2hnO3oUlj_eHYPQ43gY9oiOI720as24wk84K8GE-Bg/viewform?embedded=true&hl=de" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ## Wo?
 
