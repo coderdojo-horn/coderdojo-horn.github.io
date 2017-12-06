@@ -8,10 +8,10 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 27. Oktober 2017, 17:00-19:00
-- Freitag, 10. November 2017, 17:00-19:00
-- Freitag, 24. November 2017, 17:00-19:00
-- Freitag, 8. Dezember 2017, 17:00-19:00
+- ~~Freitag, 8. Dezember 2017, 17:00-19:00~~ (wegen Krankenstand)
+- Freitag, 22. Dezember 2017, 17:00-19:00
+- Freitag, 05. Jänner 2018, 17:00-19:00
+- Freitag, 19. Jänner 2018, 17:00-19:00
  
 <br/>
 
