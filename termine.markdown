@@ -8,10 +8,10 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 19. Jänner 2018, 17:00-19:00
-- Freitag, 02. Februar 2018, 17:00-19:00
-- Freitag, 16. Februar 2018, 17:00-19:00
 - Freitag, 02. März 2018, 17:00-19:00
+- Freitag, 16. März 2018, 17:00-19:00
+- Freitag, 30. März 2018, 17:00-19:00
+- Freitag, 13. April 2018, 17:00-19:00
  
 <br/>
 
