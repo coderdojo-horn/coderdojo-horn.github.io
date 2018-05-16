@@ -8,11 +8,10 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 16. März 2018, 17:00-19:00
-- ~~Freitag, 30. März 2018, 17:00-19:00~~ (VHS geschlossen)
-- Freitag, 13. April 2018, 17:00-19:00
-- Freitag, 27. April 2018, 17:00-19:00
-- Freitag, 11. Mai 2018, 17:00-19:00
+- Freitag, 25. Mai 2018, 17:00-19:00
+- Freitag, 08. Juni 2018, 17:00-19:00
+- Freitag, 22. Juni 2018, 17:00-19:00
+- Freitag, 06. Juli 2018, 17:00-19:00 (nicht in der VHS - wird noch angekündigt wo es stattfindet)
  
 <br/>
 
