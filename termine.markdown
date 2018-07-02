@@ -8,10 +8,10 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 25. Mai 2018, 17:00-19:00
-- Freitag, 08. Juni 2018, 17:00-19:00
-- Freitag, 22. Juni 2018, 17:00-19:00
-- Freitag, 06. Juli 2018, 17:00-19:00 (nicht in der VHS - wird noch angekündigt wo es stattfindet)
+- Freitag, 06. Juli 2018, 17:00-19:00 (Kunsthaus Horn)
+- Freitag, 20. Juli 2018, 17:00-19:00 (Kunsthaus Horn)
+- Freitag, 03. August 2018, 17:00-19:00 (noch ungewiss da keine Räumlichkeit bisher bekannt)
+- Freitag, 17. August 2018, 17:00-19:00 (noch ungewiss da keine Räumlichkeit bisher bekannt)
  
 <br/>
 
