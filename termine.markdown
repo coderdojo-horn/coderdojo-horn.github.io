@@ -8,7 +8,7 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 06. Juli 2018, 17:00-19:00 (Kunsthaus Horn)
+- ~~Freitag, 06. Juli 2018, 17:00-19:00 (Kunsthaus Horn)~~ (zu wenig Anmeldungen)
 - Freitag, 20. Juli 2018, 17:00-19:00 (Kunsthaus Horn)
 - Freitag, 03. August 2018, 17:00-19:00 (noch ungewiss da keine Räumlichkeit bisher bekannt)
 - Freitag, 17. August 2018, 17:00-19:00 (noch ungewiss da keine Räumlichkeit bisher bekannt)
