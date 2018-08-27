@@ -10,6 +10,9 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 - Sommertermine entfallen! - Nächste Termine mit Schulbeginn
 - Freitag, 31. August 2018, 17:00-19:00 
+- Freitag, 14. September 2018, 17:00-19:00 
+- Freitag, 28. September 2018, 17:00-19:00 
+- Freitag, 12. Oktober 2018, 17:00-19:00 
  
 <br/>
 
