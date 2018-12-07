@@ -8,10 +8,10 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 12. Oktober 2018, 17:00-19:00 
-- Freitag, 26. Oktober 2018, 17:00-19:00 
-- Freitag, 23. November 2018, 17:00-19:00 
 - Freitag, 07. Dezember 2018, 17:00-19:00 
+- Freitag, 21. Dezember 2018, 17:00-19:00 
+- Freitag, 04. Jänner 2019, 17:00-19:00 
+- Freitag, 18. Jänner 2019, 17:00-19:00 
 
 <br/>
 
