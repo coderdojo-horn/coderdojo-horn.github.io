@@ -10,7 +10,7 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 - Freitag, 07. Dezember 2018, 17:00-19:00 
 - Freitag, 21. Dezember 2018, 17:00-19:00 
-- Freitag, 04. Jänner 2019, 17:00-19:00 
+- ~~Freitag, 04. Jänner 2019, 17:00-19:00~~ (VHS geschlossen)
 - Freitag, 18. Jänner 2019, 17:00-19:00 
 
 <br/>
