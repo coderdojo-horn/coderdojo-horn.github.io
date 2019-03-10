@@ -11,7 +11,7 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 - Freitag, 15. März 2019, 17:00-19:00 
 - Freitag, 29. März 2019, 17:00-19:00 
 - Freitag, 26. April 2019, 17:00-19:00 
-- Freitag, 10. Mai 2019, 17:00-19:00
+- Freitag, 10. Mai 2019, 17:00-19:00 
 
 <br/>
 
