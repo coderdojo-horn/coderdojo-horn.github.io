@@ -8,11 +8,11 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 15. März 2019, 17:00-19:00 
-- Freitag, 29. März 2019, 17:00-19:00 
-- Freitag, 12. April 2019, 17:00-19:00 in der Berufsschule Eggenburg
-- Freitag, 26. April 2019, 17:00-19:00 
 - Freitag, 10. Mai 2019, 17:00-19:00 
+- Freitag, 24. Mai 2019, 17:00-19:00 
+- Freitag, 07. Juni 2019, 17:00-19:00
+- Freitag, 21. Juni 2019, 17:00-19:00 
+- Freitag, 05. Juli 2019, 17:00-19:00 im Gemeindeamt Maissau
 
 <br/>
 
