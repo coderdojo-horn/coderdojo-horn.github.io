@@ -8,12 +8,10 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 10. Mai 2019, 17:00-19:00 
-- Freitag, 24. Mai 2019, 17:00-19:00 
-- Freitag, 07. Juni 2019, 17:00-19:00
-- Freitag, 14. Juni 2019, 17:00-19:00 im [Gemeindezentrum Kautzen](https://goo.gl/maps/k5WVR767iGu2Fq9LA)
-- Freitag, 21. Juni 2019, 17:00-19:00 
-- Freitag, 05. Juli 2019, 17:00-19:00 im Gemeindeamt Maissau
+- Freitag, 05. Juli 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
+- Freitag, 19. Juli 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
+- Freitag, 02. August 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
+- Freitag, 16. Juli 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
 
 <br/>
 
