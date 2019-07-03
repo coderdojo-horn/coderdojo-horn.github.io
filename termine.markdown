@@ -11,7 +11,7 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 - Freitag, 05. Juli 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
 - Freitag, 19. Juli 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
 - Freitag, 02. August 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
-- Freitag, 16. Juli 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
+- Freitag, 16. August 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
 
 <br/>
 
