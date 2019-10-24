@@ -12,7 +12,7 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 - Freitag, 08. November 2019, 17:00-19:00 in der VHS Horn
 - Freitag, 22. November 2019, 17:00-19:00 in der VHS Horn
 - Freitag, 06. Dezember 2019, 17:00-19:00 in der VHS Horn
-- Freitag, 20. Dezember 2019, 17:00-19:00 in der VHS Horn
+- Freitag, 20. Dezember 2019, 17:00-19:00 in der VHS Horn 
 
 <br/>
 
