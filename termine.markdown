@@ -8,11 +8,11 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 16. August 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
-- Freitag, 30. August 2019, 17:00-19:00 im [Gemeindeamt Maissau](https://goo.gl/maps/hL9dx5f1J9bFtEDk6)
-- Freitag, 13. September 2019, 17:00-19:00 in der VHS Horn
-- Freitag, 27. September 2019, 17:00-19:00 in der VHS Horn
-- Freitag, 11. Oktober 2019, 17:00-19:00 in der VHS Horn
+- Freitag, 25. Oktober 2019, 17:00-19:00 in der VHS Horn
+- Freitag, 08. November 2019, 17:00-19:00 in der VHS Horn
+- Freitag, 22. November 2019, 17:00-19:00 in der VHS Horn
+- Freitag, 06. Dezember 2019, 17:00-19:00 in der VHS Horn
+- Freitag, 20. Dezember 2019, 17:00-19:00 in der VHS Horn
 
 <br/>
 
