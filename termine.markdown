@@ -8,11 +8,12 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- Freitag, 25. Oktober 2019, 17:00-19:00 in der VHS Horn
-- Freitag, 08. November 2019, 17:00-19:00 in der VHS Horn
-- Freitag, 22. November 2019, 17:00-19:00 in der VHS Horn
-- Freitag, 06. Dezember 2019, 17:00-19:00 in der VHS Horn
-- Freitag, 20. Dezember 2019, 17:00-19:00 in der VHS Horn 
+- Freitag, 17. Jänner 2020, 17:00-19:00 in der VHS Horn
+- Freitag, 31. Jänner 2020, 17:00-19:00 in der VHS Horn
+- Freitag, 14. Februar 2020, 17:00-19:00 in der VHS Horn
+- Freitag, 28. Februar 2020, 17:00-19:00 in der VHS Horn
+- Freitag, 13. März 2020, 17:00-19:00 in der VHS Horn
+- Freitag, 27. März 2020, 17:00-19:00 in der VHS Horn
 
 <br/>
 
