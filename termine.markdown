@@ -12,8 +12,8 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 - Freitag, 31. Jänner 2020, 17:00-19:00 in der VHS Horn
 - Freitag, 14. Februar 2020, 17:00-19:00 in der VHS Horn
 - Freitag, 28. Februar 2020, 17:00-19:00 in der VHS Horn
-- Freitag, 13. März 2020, 17:00-19:00 in der VHS Horn
-- Freitag, 27. März 2020, 17:00-19:00 in der VHS Horn
+- ~~Freitag, 13. März 2020, 17:00-19:00 in der VHS Horn~~ abgesagt wegen Coronavirus
+- ~~Freitag, 27. März 2020, 17:00-19:00 in der VHS Horn~~ abgesagt wegen Coronavirus
 
 <br/>
 
