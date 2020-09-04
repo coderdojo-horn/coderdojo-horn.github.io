@@ -8,9 +8,11 @@ Wir ersuchen vor erstmaligem Besuch um Anmeldung damit wir etwas besser planen k
 
 ## Termine
 
-- ~~Freitag, 13. März 2020, 17:00-19:00 in der VHS Horn~~ abgesagt wegen Coronavirus
-- ~~Freitag, 27. März 2020, 17:00-19:00 in der VHS Horn~~ abgesagt wegen Coronavirus
-- ~~Freitag, 10. April 2020, 17:00-19:00 in der VHS Horn~~ abgesagt wegen Coronavirus
+Der geplante Start für das CoderDojo im Herbst war zwar mit 11. September angesetzt, dieser wird aber leider um mindestens 1 Monat verschoben.
+
+Zum einen ermöglicht unsere berufliche/private Situation aktuell zu wenig Zeit für den Betrieb bzw. dessen Vorbereitung und wir möchten die Corona Situation noch etwas beobachten.
+
+In der Zwischenzeit laden wir euch ein das Virtuelle CoderDojo aus Linz zu "besuchen". Nähere Infos dazu findet ihr unter https://linz.coderdojo.net/termine/
 
 <br/>
 
