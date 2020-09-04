@@ -12,7 +12,7 @@ Der geplante Start für das CoderDojo im Herbst war zwar mit 11. September anges
 
 Zum einen ermöglicht unsere berufliche/private Situation aktuell zu wenig Zeit für den Betrieb bzw. dessen Vorbereitung und wir möchten die Corona Situation noch etwas beobachten.
 
-In der Zwischenzeit laden wir euch ein das Virtuelle CoderDojo aus Linz zu "besuchen". Nähere Infos dazu findet ihr unter https://linz.coderdojo.net/termine/
+In der Zwischenzeit laden wir euch ein das Virtuelle CoderDojo aus Linz zu "besuchen". Nähere Infos dazu findet ihr unter <https://linz.coderdojo.net/termine/>
 
 <br/>
 
